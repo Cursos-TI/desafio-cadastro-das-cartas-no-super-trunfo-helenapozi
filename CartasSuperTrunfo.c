@@ -3,9 +3,6 @@
 int main (){
 printf ("Super trunfo\n");
 
-prinf ("noco commit\n");
-
-
-
+return 0;
 
 }
